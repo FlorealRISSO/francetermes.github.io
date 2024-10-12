@@ -1,0 +1,15 @@
+{
+    "name": "France Termes",
+    "short_name": "France Termes",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "https://francetermes.github.io",
+    "description": "France Termes WebApp",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "https://francetermes.github.io/favicon.ico",
+            "sizes": "1024x1024"
+        }
+    ]
+}
